@@ -18,7 +18,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"elements":{"link":{"color":{"text":"var:preset|color|neutral"}}},"typography":{"fontSize":"15px"}}} -->
-<p class="has-text-align-left has-link-color" style="font-size:15px">&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?>  • <?php echo esc_html__( 'Powered by WordPress', 'compilation' ); ?> &amp; <a href="https://mildthemes.co/compilation-wordpress-theme/" target="_blank" rel="noopener"><?php echo esc_html__( 'Compilation', 'compilation' ); ?></a></p>
+<p class="has-text-align-left has-link-color" style="font-size:15px">&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?>  • <?php echo esc_html__( 'Powered by WordPress', 'compilation' ); ?> &amp; <a href="https://naeemnur.com/themes/compilation/" target="_blank" rel="noopener"><?php echo esc_html__( 'Compilation', 'compilation' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
